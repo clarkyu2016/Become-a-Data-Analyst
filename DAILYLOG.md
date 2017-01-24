@@ -2,3 +2,7 @@
 
 # 每日学习日志
 ![Become a data analyst!](extras/Data-Analyst.png)
+
+### 2017/1/24
+ - Codefights一个关卡
+ - 
