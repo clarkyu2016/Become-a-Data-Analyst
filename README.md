@@ -7,7 +7,7 @@
 ## 目录
 - [这是？](#这是)
 - [学习计划](#学习计划)
-- [学习日志](https://github.com/clarkyu2016/logbook/blob/master/DAILYLOG.md)
+- [学习日志](DAILYLOG.md)
 - [技能树](#技能树)
 - [参考文章](#参考文章)
 
