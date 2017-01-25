@@ -5,4 +5,4 @@
 
 ### 2017/1/24
  - Codefights一个关卡
- - 
+ - Machine learning中SVM概念学习
