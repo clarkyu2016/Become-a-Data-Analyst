@@ -12,7 +12,9 @@
 #### 一月
 
 ##### 1月25日
- - 完成udacity上SVM小节
+ - 完成udacity的SVM小节
+ - 完成udacity的Decision Tree小节
+ - 由于自己乱搞，多安装了一次numpy，重新配置了本地环境，最后用pip uninstall numpy才修复
 
 ##### 1月24日
  - Codefights一个关卡
