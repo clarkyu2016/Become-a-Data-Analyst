@@ -13,6 +13,8 @@
 
 ##### 1月28日
  - 改了一个下午的report
+ - 完成Choose your own algorithm小节
+ - 完成了对Enron dataset的初步探索
 
 ##### 1月25日
  - 完成udacity的SVM小节
