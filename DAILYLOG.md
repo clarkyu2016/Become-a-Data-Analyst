@@ -11,6 +11,9 @@
 ### 2017
 #### 一月
 
+##### 1月28日
+ - 改了一个下午的report
+
 ##### 1月25日
  - 完成udacity的SVM小节
  - 完成udacity的Decision Tree小节
