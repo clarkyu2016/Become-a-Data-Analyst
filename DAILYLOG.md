@@ -12,7 +12,8 @@
 #### 一月
 
 ##### 1月29日
- - Udacity的regression小节
+ - 完成Udacity的regression小节
+ - 完成Udacity的Outliers小节
 
 ##### 1月28日
  - 改了一个下午的report
