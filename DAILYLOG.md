@@ -11,6 +11,9 @@
 ### 2017
 #### 一月
 
+##### 1月29日
+ - Udacity的regression小节
+
 ##### 1月28日
  - 改了一个下午的report
  - 完成Choose your own algorithm小节
