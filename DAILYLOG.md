@@ -11,6 +11,11 @@
 ### 2017
 #### 一月
 
+##### 1月30日
+ - 完成Udacity的Clustering小节
+ - 完成Udacity的Feature Scalling小节
+ - 完成Udacity的Text Learning小节
+
 ##### 1月29日
  - 完成Udacity的regression小节
  - 完成Udacity的Outliers小节
