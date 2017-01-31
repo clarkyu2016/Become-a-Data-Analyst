@@ -14,6 +14,7 @@
 ##### 1月31日
  - 完成Udacity的Feature Selection小节
  - 完成codefights里arcade一个关卡（目前进度：core-13/162)
+ - 完成Udacity的PCA小节
 
 ##### 1月30日
  - 完成Udacity的Clustering小节
