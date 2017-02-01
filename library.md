@@ -4,10 +4,10 @@
 ![Become a data analyst!](extras/Data-Analyst.png)
 
 ## 目录
-- [Machine Learning](#machine learning)
-  - [Concept Map](#concept map)
+- [Machine Learning](#machine-learning)
+  - [Concept Map](#concept-map)
   - [Dataset/question](#dataset/question)
-  - [Feature Selection](#feature selection)
+  - [Feature Selection](#feature-selection)
   - [Algorithm](#algorithm)
   - [Evaluation](#evaluation)
 
