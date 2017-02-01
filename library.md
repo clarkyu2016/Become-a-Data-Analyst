@@ -1,22 +1,20 @@
-[如何成为一名合格的数据分析师？](README.md)
+[How to become a data analyst？](README.md)
 
-# 学习资料库
+# Libarary
 ![Become a data analyst!](extras/Data-Analyst.png)
 
-## 目录
+## Content
 - [Machine Learning](#machine-learning)
   - [Concept Map](#concept-map)
-  - [Dataset/question](#dataset/question)
+  - [Dataset/question](#dataset-question)
   - [Feature Selection](#feature-selection)
   - [Algorithm](#algorithm)
   - [Evaluation](#evaluation)
 
-
-
 ### Machine Learning
 #### Concept Map
 ![Learning Map](extras/mlmap.png)
-#### Dataset/question
+#### Dataset Question
 #### Feature Selection
 #### Algorithm
 #### Evaluation

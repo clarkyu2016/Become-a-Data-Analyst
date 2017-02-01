@@ -1,4 +1,4 @@
-# 如何成为一名合格的数据分析师？
+# How to become a data analyst？
 ![Become a data analyst!](extras/Data-Analyst.png)
 ## 这是？
 这是我为了成为一名数据分析师给自己制定的学习指南，以及记录下我每天所学习的内容。
@@ -27,6 +27,9 @@
 ### 语言学习
   - [ ] [利用Codefights加强对python的学习](https://codefights.com/)
 
+### Build my own learning library
+  - [ ] keep adding materials, notes, books there
+  - [ ] Translate current readme.me to English version
 ## 技能树
 >按照精通、熟悉、一般划分
 
