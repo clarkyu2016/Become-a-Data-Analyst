@@ -5,8 +5,19 @@
 
 ## 目录
 - [Machine Learning](###Machine Learning)
+  -[Concept Map](####Concept Map)
+  -[Dataset/question](####Dataset/question)
+  -[Feature Selection](####Feature Selection)
+  -[Algorithm](####Algorithm)
+  -[Evaluation](####Evaluation)
 
 
 
 ### Machine Learning
- - [准确率(Accuracy), 精确率(Precision), 召回率(Recall)和F1-Measure](https://argcv.com/articles/1036.c)
+#### Concept Map
+![Learning Map](extras/mlmap.png)
+#### Dataset/question
+#### Feature Selection
+#### Algorithm
+#### Evaluation
+   - [准确率(Accuracy), 精确率(Precision), 召回率(Recall)和F1-Measure](https://argcv.com/articles/1036.c)

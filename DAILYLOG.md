@@ -14,6 +14,7 @@
 #### 二月
 ##### 2月1日
  - 完成Udacity的validation小节
+ - 完成Udacity的Evaluation metric小节
 
 
 
