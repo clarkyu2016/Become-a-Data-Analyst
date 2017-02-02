@@ -6,7 +6,7 @@
 
 
 ## 目录
-- [What is it？](#What-is-it?)
+- [What is it？](#what-is-it-?)
 - [学习计划](#学习计划)
 - [学习日志](dailylog.md)
 - [学习资料](library.md)
