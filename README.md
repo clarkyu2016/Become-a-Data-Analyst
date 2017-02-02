@@ -5,8 +5,8 @@
 这是我为了成为一名数据分析师给自己制定的学习指南，以及记录下我每天所学习的内容。
 
 
-## 目录
-- [What is it？](#what-is-it?)
+## Table of Contents
+- [What is it？](#what-is-it)
 - [学习计划](#学习计划)
 - [学习日志](dailylog.md)
 - [学习资料](library.md)
