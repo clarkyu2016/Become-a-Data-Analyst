@@ -7,7 +7,7 @@
 
 ## Table of Contents
 - [What is it？](#what-is-it)
-- [学习计划](#学习计划)
+- [The plan](#学习计划)
 - [学习日志](dailylog.md)
 - [学习资料](library.md)
 - [技能树](#技能树)
