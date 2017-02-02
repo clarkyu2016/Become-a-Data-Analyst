@@ -2,7 +2,7 @@
 ![Become a data analyst!](extras/Data-Analyst.png)
 
 ## What is it？
-这是我为了成为一名数据分析师给自己制定的学习指南，以及记录下我每天所学习的内容。
+This is my study plan for going from no tech background to data analyst.
 
 
 ## Table of Contents
