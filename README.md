@@ -1,11 +1,12 @@
 # How to become a data analyst？
 ![Become a data analyst!](extras/Data-Analyst.png)
-## 这是？
+
+## What is it？
 这是我为了成为一名数据分析师给自己制定的学习指南，以及记录下我每天所学习的内容。
 
 
 ## 目录
-- [这是？](#这是)
+- [What is it？](#What-is-it?)
 - [学习计划](#学习计划)
 - [学习日志](dailylog.md)
 - [学习资料](library.md)
