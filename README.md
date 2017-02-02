@@ -41,6 +41,7 @@
 - JavaScript【Intermediate】
 - Statistic【Intermediate】
 - EXCEL【Intermediate】
+
 > Unrelated skill
 > HTML【Expert】
 > CSS 【Intermediate】
