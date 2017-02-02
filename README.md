@@ -37,16 +37,11 @@
 
 - Python【Intermediate】
 - SQL【Intermediate】
-- R【Beginner】
+- R【Intermediate】
 - JavaScript【Intermediate】
 - Statistic【Intermediate】
 - EXCEL【Intermediate】
-
-> Unrelated skill
-
-> HTML【Expert】
-
-> CSS 【Intermediate】
+- Machine Learning【Beginner】
 
 
 ## Reference
