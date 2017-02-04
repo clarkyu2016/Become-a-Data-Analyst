@@ -15,6 +15,7 @@
 
 ##### Feb 3
  - Finish the project 4 report, make some change and progress according to the review.
+ - Work on project 5
 
 ##### Feb 2
  - Coedefights arcade - 16/162
