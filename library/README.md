@@ -14,8 +14,6 @@ This is the library where I put all of my learning materials and notes.
   - [Algorithm](#algorithm)
   - [Evaluation](#evaluation)
 
----
-
 ## Python
 
 ### Basic
