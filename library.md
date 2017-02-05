@@ -18,7 +18,7 @@
 ### Python
 
 #### Basic
-  - [Import modules and open files from subdirectory](python/importrelative.md)
+  - [How to import packages or open files from subdirectory?](python/importrelative.md)
 
 #### Numpy
 
