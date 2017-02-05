@@ -9,7 +9,7 @@ This is my study plan for going from no tech background to data analyst.
 - [What is it？](#what-is-it)
 - [The plan](#the plan)
 - [The daily log](dailylog.md)
-- [My library](library/README.md)
+- [My library](https://github.com/clarkyu2016/Become-a-Data-Analyst/tree/master/library)
 - [Current Skill](#current-skill)
 - [Reference](#reference)
 
