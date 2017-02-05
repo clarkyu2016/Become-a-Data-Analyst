@@ -15,6 +15,7 @@
 
 ##### Feb 5
  - Upload project 5 notes
+ - Finish P6-1 visualization Fundamentals
 
 ##### Feb 4
  - Finish project 5
