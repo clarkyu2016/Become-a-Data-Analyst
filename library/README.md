@@ -34,7 +34,8 @@ This is the library where I put all of my learning materials and notes.
 
 ### Algorithm
    - [Top 10 Machine Learning Algorithms](https://www.dezyre.com/article/top-10-machine-learning-algorithms/202)
-   - [机器学习算法一览](http://it.sohu.com/20160112/n434311372.shtml)
+   
+   - [机器学习算法一览](http://it.sohu.com/20160112/n434311372.shtml)
 
 ### Evaluation
    - [准确率(Accuracy), 精确率(Precision), 召回率(Recall)和F1-Measure](https://argcv.com/articles/1036.c)
