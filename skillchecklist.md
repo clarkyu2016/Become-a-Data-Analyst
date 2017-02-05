@@ -22,9 +22,9 @@
   - [ ] ggplot
   - [ ] d3.js
 - [ ]  **Presenting data and convincing people with your data**
-  - [ ]Know the context of the business situation at hand with regards to your data
-  - [ ]Make sure to think 5 steps ahead and predict what their questions will be and where your audience will challenge your assumptions and conclusions
-  - [ ]Give out pre-reads to your presentations and have pre-alignment meetings with interested parties before the actual meeting
+  - [ ] Know the context of the business situation at hand with regards to your data
+  - [ ] Make sure to think 5 steps ahead and predict what their questions will be and where your audience will challenge your assumptions and conclusions
+  - [ ] Give out pre-reads to your presentations and have pre-alignment meetings with interested parties before the actual meeting
 
 
 ## Data Intuition
