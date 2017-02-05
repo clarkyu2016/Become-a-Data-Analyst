@@ -16,25 +16,25 @@ This is the library where I put all of my learning materials and notes.
 
 ---
 
-### Python
+## Python
 
-#### Basic
+### Basic
   - [How to import packages or open files from subdirectory?](python/importrelative.md)
 
-#### Numpy
+### Numpy
 
-#### Pandas
+### Pandas
 
-### Machine Learning
+## Machine Learning
 
-#### Concept Map
+### Concept Map
 ![Learning Map](extras/mlmap.png)
 
-#### Dataset Question
+### Dataset Question
 
-#### Feature Selection
+### Feature Selection
 
-#### Algorithm
+### Algorithm
 
-#### Evaluation
+### Evaluation
    - [准确率(Accuracy), 精确率(Precision), 召回率(Recall)和F1-Measure](https://argcv.com/articles/1036.c)
