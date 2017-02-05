@@ -27,10 +27,11 @@ This is my study plan for going from no tech background to data analyst.
 
 ### learning language
   - [ ] Improve python skills by [CodeFights](https://codefights.com/)
+   - [ ] Web Crawling
 
 ### Build my own learning library
   - [ ] keep adding materials, notes, books there
-  - [ ] Translate current readme.me to English version
+  - [x] Translate current readme.me to English version
 
 ## Current Skill
 > Beginner/Intermediate/Expert

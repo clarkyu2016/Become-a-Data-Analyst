@@ -13,6 +13,10 @@
 
 #### February
 
+##### Feb 4
+ - Finish project 5
+ - translate project 4 to Chinese version and put it on [Jianshu.com](http://www.jianshu.com/p/b690974e8146).
+
 ##### Feb 3
  - Finish the project 4 report, make some change and progress according to the review.
  - Work on project 5
