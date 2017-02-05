@@ -8,7 +8,6 @@
   - [Basic](#basic)
   - [Numpy](#numpy)
   - [Pandas](#pandas)
-
 - [Machine Learning](#machine-learning)
   - [Concept Map](#concept-map)
   - [Dataset/question](#dataset-question)
@@ -17,16 +16,24 @@
   - [Evaluation](#evaluation)
 
 ### Python
+
 #### Basic
   - [Import modules and open files from subdirectory](python/importrelative.md)
+
 #### Numpy
+
 #### Pandas
 
 ### Machine Learning
+
 #### Concept Map
 ![Learning Map](extras/mlmap.png)
+
 #### Dataset Question
+
 #### Feature Selection
+
 #### Algorithm
+
 #### Evaluation
    - [准确率(Accuracy), 精确率(Precision), 召回率(Recall)和F1-Measure](https://argcv.com/articles/1036.c)
