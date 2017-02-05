@@ -26,8 +26,9 @@ This is my study plan for going from no tech background to data analyst.
   - [ ] R for Beginners
 
 ### learning language
-  - [ ] Improve python skills by [CodeFights](https://codefights.com/)
-   - [ ] Web Crawling
+  - [ ]Python
+    - [ ] Improve python skills by [CodeFights](https://codefights.com/)
+    - [ ] Web Crawling
 
 ### Build my own learning library
   - [ ] keep adding materials, notes, books there

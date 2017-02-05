@@ -4,12 +4,23 @@
 ![Become a data analyst!](extras/Data-Analyst.png)
 
 ## Content
+- [Python](#python)
+  - [Basic](#basic)
+  - [Numpy](#numpy)
+  - [Pandas](#pandas)
+
 - [Machine Learning](#machine-learning)
   - [Concept Map](#concept-map)
   - [Dataset/question](#dataset-question)
   - [Feature Selection](#feature-selection)
   - [Algorithm](#algorithm)
   - [Evaluation](#evaluation)
+
+### Python
+#### Basic
+  - [Import modules and open files from subdirectory](python/importrelative.md)
+#### Numpy
+#### Pandas
 
 ### Machine Learning
 #### Concept Map
