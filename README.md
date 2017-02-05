@@ -26,7 +26,7 @@ This is my study plan for going from no tech background to data analyst.
   - [ ] R for Beginners
 
 ### learning language
-  - [ ]Python
+  - [ ] Python
     - [ ] Improve python skills by [CodeFights](https://codefights.com/)
     - [ ] Web Crawling
 
@@ -49,3 +49,4 @@ This is my study plan for going from no tech background to data analyst.
 ## Reference
 
 - [数据分析入门及职业规划？](https://www.zhihu.com/question/28945531)
+- [Map for pythoner](https://github.com/hhstore/v2coder/tree/master/Pythoner)
