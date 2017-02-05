@@ -1,7 +1,6 @@
-[How to become a data analyst？](README.md)
+# Library
+This is the library where I put all of my learning materials and notes.
 
-# Libarary
-![Become a data analyst!](extras/Data-Analyst.png)
 
 ## Content
 - [Python](#python)
