@@ -5,10 +5,11 @@
 This is my study plan for going from no tech background to data analyst.
 
 ### Skill Checklist
-This is a checklist from Udacity, which provides some guidence on skills a data analyst need to have.
+This is a checklist from Udacity, which provides the guidence on skills a data analyst need to have.
 
 [Ultimate Skill Checklist For Data Analyst](skillchecklist.md)
-This checklist is my basis of all study plan.
+
+> Also, this checklist is the base of all study plan.
 
 ## Table of Contents
 - [What is it？](#what-is-it)
