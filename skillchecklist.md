@@ -63,7 +63,7 @@
 - [ ] How does the 1/2 value change the shape of this graph?
 - [ ] Linear algebra and Calculus
 - [ ] Matrix manipulations. Dot product is crucial to understand.
-- [ ] Eigenvalues and eigenvectors -- Understand the significance of these two concepts
+- [ ] Eigenvalues and eigenvectors -- Understand the significance of these two concepts
 - [ ] Multivariable derivatives and integration in Calculus
 
 ## Machine Learning
