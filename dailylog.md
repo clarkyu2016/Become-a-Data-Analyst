@@ -14,6 +14,9 @@
 #### February
 
 ##### Feb 5
+ - Finish p6-2/3 D3 building block
+
+##### Feb 5
  - Upload project 5 notes
  - Finish P6-1 visualization Fundamentals
  - Pass p4! Upload the project 4
