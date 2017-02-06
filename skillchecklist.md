@@ -61,7 +61,7 @@
 - [x] Translate numbers and concepts into a mathematical expression: 4 times the square-root of one-third of a gallon of water (expressed as g): 4 √(1/3 g)
 - [x] Solve for missing values in Algebra equations: 14 = 2x + 29
 - [ ] How does the 1/2 value change the shape of this graph?
-- [ ] Linear algebra and Calculus
+- [ ] Linear algebra and Calculus
 - [ ] Matrix manipulations. Dot product is crucial to understand.
 - [ ] Eigenvalues and eigenvectors -- Understand the significance of these two concepts
 - [ ] Multivariable derivatives and integration in Calculus
