@@ -9,7 +9,7 @@ This is a checklist from Udacity, which provides the guidence on skills a data a
 
 [Ultimate Skill Checklist For Data Analyst](skillchecklist.md)
 
-> Also, this checklist is the base of all study plan.
+> Also, this checklist is the basis of all study plan.
 
 ## Table of Contents
 - [What is it？](#what-is-it)
