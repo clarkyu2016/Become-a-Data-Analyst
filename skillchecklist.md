@@ -9,7 +9,6 @@
 - [Communication and Data Visualization](#communication-and-data-visualization)
 - [Data Intuition](#data-intuition)
 
-
 ## Programming
 - **Python programming language**
   - [ ] numpy
@@ -35,7 +34,6 @@
     - [ ] AJAX implementation
     - [ ] jQuery
   - [ ] C/C++ or Java
-
 
 ## Statistic
 - Descriptive and Inferential statistics
@@ -88,7 +86,7 @@
     - [ ] Reinforcement Learning
 
 ## Data Wrangling
-- Python
+- **Python**
   - [ ] Learn about Python String library for string manipulations
   - [ ] Parsing common file formats such as csv and xml files
   - [ ] Regular Expressions
@@ -98,7 +96,6 @@
  - [ ] Relational databases such as PostgreSQL, mySQL, Netezza, Oracle, etc.
  - [ ] Optional: Hadoop, Spark, MongoDB
 - [x] SQL
-
 
 ## Communication and Data Visualization
 - [ ] **Understand visual encoding and communicating what you want the audience to take away from your visualizations**
@@ -110,6 +107,3 @@
   - [ ] Know the context of the business situation at hand with regards to your data
   - [ ] Make sure to think 5 steps ahead and predict what their questions will be and where your audience will challenge your assumptions and conclusions
   - [ ] Give out pre-reads to your presentations and have pre-alignment meetings with interested parties before the actual meeting
-
-
-## Data Intuition
