@@ -44,3 +44,8 @@ This is the library where I put all of my learning materials and notes.
 ## Data Visualization
  - [Graphical perception – learn the fundamentals first](http://flowingdata.com/2010/03/20/graphical-perception-learn-the-fundamentals-first/)
  - [Visual Encoding](https://www.targetprocess.com/articles/visual-encoding/)
+ - [A Tour through the Visualization Zoo](http://queue.acm.org/detail.cfm?id=1805128)
+ - [Chart Chooser](http://labs.juiceanalytics.com/chartchooser/index.html)
+ - [The functional art](http://www.thefunctionalart.com/)
+ - [Storytelling with data](http://www.storytellingwithdata.com/)
+ - [D3 Tutorials](http://alignedleft.com/tutorials/d3)
