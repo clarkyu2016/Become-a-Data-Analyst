@@ -45,7 +45,12 @@ This is the library where I put all of my learning materials and notes.
  - [Graphical perception – learn the fundamentals first](http://flowingdata.com/2010/03/20/graphical-perception-learn-the-fundamentals-first/)
  - [Visual Encoding](https://www.targetprocess.com/articles/visual-encoding/)
  - [A Tour through the Visualization Zoo](http://queue.acm.org/detail.cfm?id=1805128)
- - [Chart Chooser](http://labs.juiceanalytics.com/chartchooser/index.html)
  - [The functional art](http://www.thefunctionalart.com/)
  - [Storytelling with data](http://www.storytellingwithdata.com/)
  - [D3 Tutorials](http://alignedleft.com/tutorials/d3)
+ - [Rules for using color](http://www.perceptualedge.com/articles/visual_business_intelligence/rules_for_using_color.pdf)
+ - [Cartastrophe Chart](https://cartastrophe.wordpress.com/)
+ - Tools
+   - [ColorBrewer](http://colorbrewer2.org/)
+   - [Adobe's Color CC](https://color.adobe.com/create/color-wheel)
+   - [Chart Chooser](http://labs.juiceanalytics.com/chartchooser/index.html)
