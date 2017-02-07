@@ -13,7 +13,11 @@
 
 #### February
 
-##### Feb 5
+##### Feb 6
+ - Finish p6-4 D3 Design Principle
+ - Upload project 5 report to my github
+
+##### Feb 6
  - Finish p6-2/3 D3 building block
 
 ##### Feb 5
