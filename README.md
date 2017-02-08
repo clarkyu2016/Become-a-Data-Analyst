@@ -13,7 +13,7 @@ This is a checklist from Udacity, which provides the guidence on skills a data a
 
 ## Table of Contents
 - [What is it？](#what-is-it)
-- [Skill Checklist](skill-checklist.md)
+- [Skill Checklist](skillchecklist.md)
 - [The plan](#the plan)
 - [The daily log](dailylog.md)
 - [My library](https://github.com/clarkyu2016/Become-a-Data-Analyst/tree/master/library)
