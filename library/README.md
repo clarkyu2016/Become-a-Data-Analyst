@@ -54,6 +54,7 @@ This is the library where I put all of my learning materials and notes.
  - [Introducing the Grammar of Graphics Plotting Concept](http://www.science-craft.com/2014/07/08/introducing-the-grammar-of-graphics-plotting-concept/)
  - [Clarity or Aesthetics? Part 2 – A Tale of Four Quadrants](http://dataremixed.com/2012/05/clarity-or-aesthetics-part-2-a-tale-of-four-quadrants/)
  - [Clarity or Aesthetics? Part 3 – Tips for Achieving Both](http://dataremixed.com/2012/06/clarity-or-aesthetics-part-3-tips-for-achieving-both/)
+ - [https://visualisingadvocacy.org/blog/disinformation-visualization-how-lie-datavis](https://visualisingadvocacy.org/blog/disinformation-visualization-how-lie-datavis)
  - Tools
    - [ColorBrewer](http://colorbrewer2.org/)
    - [Adobe's Color CC](https://color.adobe.com/create/color-wheel)
