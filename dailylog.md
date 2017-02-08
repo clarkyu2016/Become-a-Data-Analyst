@@ -13,6 +13,9 @@
 
 #### February
 
+##### Feb 7
+ - Finish p6-5 D3 Dimple.js
+
 ##### Feb 6
  - Finish p6-4 D3 Design Principle
  - Upload project 5 report to my github
