@@ -13,6 +13,10 @@
 
 #### February
 
+##### Feb 10
+ - Finsh 20/50 for P6 animation and intercation
+ - Pass the project 5! Only 2 project left!
+
 ##### Feb 9
  - Finish the whole lesson 3 in p6
 
