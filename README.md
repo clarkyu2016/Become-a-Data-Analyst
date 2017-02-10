@@ -57,6 +57,7 @@ This is a checklist from Udacity, which provides the guidence on skills a data a
 
 - [数据分析入门及职业规划？](https://www.zhihu.com/question/28945531)
 - [Map for pythoner](https://github.com/hhstore/v2coder/tree/master/Pythoner)
+- [如何成为一名数据科学家？](https://www.zhihu.com/question/21592677/answer/144961228)
 
 
 ## License
