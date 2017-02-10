@@ -13,12 +13,15 @@
 
 #### February
 
-##### Feb 7
+##### Feb 9
+ - Finish the whole lesson 3 in p6
+
+##### Feb 8
  - Finish p6-5 D3 Dimple.js
  - Study half of p6-6
  - Try to create [first dimple chart](http://bl.ocks.org/clarkyu2016/fdee38a185c8c1257cf337e96b89ab8d)
 
-##### Feb 6
+##### Feb 7
  - Finish p6-4 D3 Design Principle
  - Upload project 5 report to my github
 
