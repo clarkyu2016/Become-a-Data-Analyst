@@ -4,7 +4,7 @@
 ![Become a data analyst!](extras/Data-Analyst.png)
 ## Table of contents
 - [2017](#2017)
-  - [january](#January)
+  - [January](#January)
   - [February](#february)
 
 
