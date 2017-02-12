@@ -56,6 +56,10 @@ This is the library where I put all of my learning materials and notes.
  - [Clarity or Aesthetics? Part 3 – Tips for Achieving Both](http://dataremixed.com/2012/06/clarity-or-aesthetics-part-3-tips-for-achieving-both/)
  - [https://visualisingadvocacy.org/blog/disinformation-visualization-how-lie-datavis](https://visualisingadvocacy.org/blog/disinformation-visualization-how-lie-datavis)
  - [https://bost.ocks.org/mike/selection/](https://bost.ocks.org/mike/selection/)
+ - D3
+   - [animations and transitions](http://www.jeromecukier.net/blog/2012/07/16/animations-and-transitions/)
+   - [Learning D3 Part 3: Animation & Interaction](http://synthesis.sbecker.net/articles/2012/07/10/learning-d3-part-3-animation-interaction)
+   - [Let’s Make a Bubble Map](https://bost.ocks.org/mike/bubble-map/)
  - Tools
    - [ColorBrewer](http://colorbrewer2.org/)
    - [Adobe's Color CC](https://color.adobe.com/create/color-wheel)
