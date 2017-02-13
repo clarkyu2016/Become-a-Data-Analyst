@@ -12,9 +12,11 @@
 ### 2017
 
 #### February
-##### Feb 11
- - Finish the 2st version of P6 final project.
+##### Feb 13
+ - Finish the overview of A/B Testing
 
+##### Feb 12
+ - Finish the 2st version of P6 final project.
 
 ##### Feb 11
  - Finish all the lesson for P6!
