@@ -13,6 +13,10 @@
 
 #### February
 
+##### Feb 15
+ - Submit new version of final project 6
+ - Finish Design a experiments
+
 ##### Feb 14
  - Finish Policy and Ethics for Experiments
 
