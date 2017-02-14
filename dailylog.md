@@ -12,6 +12,10 @@
 ### 2017
 
 #### February
+
+##### Feb 14
+ - Finish Policy and Ethics for Experiments
+
 ##### Feb 13
  - Finish the overview of A/B Testing
 

@@ -69,3 +69,4 @@ This is the library where I put all of my learning materials and notes.
 ## Others
 ### A/B Testing
 ![A/Btesting](extras/ABTEST.png)
+ - Rates are better for usability testing.
