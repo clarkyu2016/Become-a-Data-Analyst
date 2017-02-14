@@ -14,6 +14,7 @@ This is the library where I put all of my learning materials and notes.
   - [Algorithm](#algorithm)
   - [Evaluation](#evaluation)
 - [Data Visualization](#data-visualization)
+- [Others](#others)
 
 ## Python
 
@@ -64,3 +65,7 @@ This is the library where I put all of my learning materials and notes.
    - [ColorBrewer](http://colorbrewer2.org/)
    - [Adobe's Color CC](https://color.adobe.com/create/color-wheel)
    - [Chart Chooser](http://labs.juiceanalytics.com/chartchooser/index.html)
+
+## Others
+### A/B Testing
+![A/Btesting](extras/ABTEST.png)
