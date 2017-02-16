@@ -13,6 +13,13 @@
 
 #### February
 
+##### Feb 17
+ - Finish the Project 7
+
+##### Feb 16
+ - Pass the project 6
+ - finish the Project 7 lessons
+
 ##### Feb 15
  - Submit new version of final project 6
  - Finish Design a experiments

@@ -3,6 +3,7 @@ This is the library where I put all of my learning materials and notes.
 
 
 ## Content
+- [Statistic](#statistic)
 - [Python](#python)
   - [Basic](#basic)
   - [Numpy](#numpy)
@@ -15,6 +16,9 @@ This is the library where I put all of my learning materials and notes.
   - [Evaluation](#evaluation)
 - [Data Visualization](#data-visualization)
 - [Others](#others)
+
+## Statistic
+ - [Binomial distribution](https://en.wikipedia.org/wiki/Binomial_distribution)
 
 ## Python
 
