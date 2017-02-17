@@ -15,6 +15,7 @@
 
 ##### Feb 17
  - Finish the Project 7
+ - Make the Starbucks location worldwide visualization
 
 ##### Feb 16
  - Pass the project 6
