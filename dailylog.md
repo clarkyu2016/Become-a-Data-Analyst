@@ -13,6 +13,13 @@
 
 #### February
 
+##### Feb 18
+ - Learning python
+
+##### Feb 17
+ - Pass the Project 7
+ - Modify the resume
+
 ##### Feb 17
  - Finish the Project 7
  - Make the Starbucks location worldwide visualization
