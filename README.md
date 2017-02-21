@@ -26,7 +26,7 @@ This is a checklist from Udacity, which provides the guidence on skills a data a
 
 ### Online Course
   - [x] Udacity CS101 —— [Intro to Computer Science](https://www.udacity.com/course/intro-to-computer-science--cs101)
-  - [ ] Udacity Data Analyst Nanodegree —— [Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
+  - [x] Udacity Data Analyst Nanodegree —— [Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
 
 ### Reading list
   - [ ] Python for Data Analysis
@@ -35,6 +35,7 @@ This is a checklist from Udacity, which provides the guidence on skills a data a
 ### learning language
   - [ ] Python
     - [ ] Improve python skills by [CodeFights](https://codefights.com/)
+    - [ ] Regular Expression
     - [ ] Web Crawling
 
 ### Build my own learning library
