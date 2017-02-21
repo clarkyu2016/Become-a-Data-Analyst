@@ -13,10 +13,16 @@
 
 #### February
 
-##### Feb 18
- - Learning python
+##### Feb 20
+ - Read Python for Data Analysis chapter 2
 
-##### Feb 17
+##### Feb 20
+ - Read Python for Data Analysis chapter 1-2
+
+##### Feb 19
+   - Learning python on IMOCC
+
+##### Feb 18
  - Pass the Project 7
  - Modify the resume
 
