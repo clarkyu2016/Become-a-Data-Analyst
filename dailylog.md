@@ -13,6 +13,10 @@
 
 #### February
 
+##### Feb 21
+ - Finish Python for Data Analysis chapter 2
+ - learn API on codecademy
+
 ##### Feb 20
  - Read Python for Data Analysis chapter 2
 
