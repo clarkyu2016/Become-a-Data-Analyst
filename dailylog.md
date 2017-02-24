@@ -13,6 +13,14 @@
 
 #### February
 
+##### Feb 23
+ - Reading Python for Data Analysis chapter 4
+ - Wrangling data from Douban
+
+##### Feb 22
+  - Finish Python for Data Analysis chapter 4
+  - learn pyspider
+
 ##### Feb 21
  - Finish Python for Data Analysis chapter 2
  - learn API on codecademy
