@@ -24,6 +24,7 @@ This is the library where I put all of my learning materials and notes.
 
 ### Basic
   - [How to import packages or open files from subdirectory?](python/importrelative.md)
+  - [ Using % and .format() for great good!](https://pyformat.info/)
 
 ### Numpy
 
