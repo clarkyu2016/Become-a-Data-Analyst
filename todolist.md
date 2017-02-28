@@ -2,9 +2,11 @@
 
 # To Do list
 ### Online Course
+  - [ ] Udacity machine-learning Nanodegree
+  - [ ] Udacity CS212  —— [Design of Computer Programs](https://www.udacity.com/course/design-of-computer-programs--cs212)
+  - [x] [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)
   - [x] Udacity CS101 —— [Intro to Computer Science](https://www.udacity.com/course/intro-to-computer-science--cs101)
   - [x] Udacity Data Analyst Nanodegree —— [Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
-  - [ ] Udacity machine-learning Nanodegree
 
 ### Reading list
   - [ ] Python for Data Analysis(Progress: reading now!)
