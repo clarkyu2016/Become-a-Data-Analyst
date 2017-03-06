@@ -1,6 +1,8 @@
 [How to become a data analyst？](README.md)
 
 # To Do list
+### Writing plan
+  - [ ] Translate [skills list](http://www.jianshu.com/p/cdc2bb769841) into Chinese and add some comments
 ### Online Course
   - [ ] Udacity machine-learning Nanodegree
   - [ ] Udacity CS212  —— [Design of Computer Programs](https://www.udacity.com/course/design-of-computer-programs--cs212)
