@@ -18,8 +18,9 @@ This is the library where I put all of my learning materials and notes.
 - [Others](#others)
 
 ## Statistic
+ - [Basic concepts(pdf version)](https://github.com/clarkyu2016/Become-a-Data-Analyst/tree/master/library/statistic)
  - [Binomial distribution](https://en.wikipedia.org/wiki/Binomial_distribution)
-
+ 
 ## Python
 
 ### Basic
