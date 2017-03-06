@@ -22,6 +22,7 @@ This is the library where I put all of my learning materials and notes.
  - [Binomial distribution](https://en.wikipedia.org/wiki/Binomial_distribution)
  
 ## Python
+ - ["yield"](http://www.ibm.com/developerworks/cn/opensource/os-cn-python-yield/)
 
 ### Basic
   - [How to import packages or open files from subdirectory?](python/importrelative.md)
