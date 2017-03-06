@@ -6,10 +6,17 @@
 - [2017](#2017)
   - [January](#January)
   - [February](#february)
+  - [March](#march)
 
 
 
 ### 2017
+
+#### March
+
+##### March 6
+ - I forgot to write daily log last several days. But I still kept coding.
+ - Learning "Design of Computer Programs" - CS212, which is a little difficult. Currently, I just finished unit2.
 
 #### February
 
@@ -27,9 +34,6 @@
 
 ##### Feb 20
  - Read Python for Data Analysis chapter 2
-
-##### Feb 20
- - Read Python for Data Analysis chapter 1-2
 
 ##### Feb 19
    - Learning python on IMOCC
