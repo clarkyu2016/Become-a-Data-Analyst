@@ -3,6 +3,7 @@ This is the library where I put all of my learning materials and notes.
 
 
 ## Content
+- [Linear Algebra](#linear-algebra)
 - [Statistic](#statistic)
 - [Python](#python)
   - [Basic](#basic)
@@ -17,10 +18,13 @@ This is the library where I put all of my learning materials and notes.
 - [Data Visualization](#data-visualization)
 - [Others](#others)
 
+## Linear Algebra
+ - [Vector](Linear Algebra/vector.py)
+
 ## Statistic
  - [Basic concepts(pdf version)](https://github.com/clarkyu2016/Become-a-Data-Analyst/tree/master/library/statistic)
  - [Binomial distribution](https://en.wikipedia.org/wiki/Binomial_distribution)
- 
+
 ## Python
  - ["yield"](http://www.ibm.com/developerworks/cn/opensource/os-cn-python-yield/)
 
