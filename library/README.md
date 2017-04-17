@@ -19,7 +19,7 @@ This is the library where I put all of my learning materials and notes.
 - [Others](#others)
 
 ## Linear Algebra
- - [Vector](Linear Algebra/vector.py)
+ - [Vector](Linear%20Algebra/vector.py)
 
 ## Statistic
  - [Basic concepts(pdf version)](https://github.com/clarkyu2016/Become-a-Data-Analyst/tree/master/library/statistic)
