@@ -7,10 +7,18 @@
   - [January](#January)
   - [February](#february)
   - [March](#march)
+  - [April](#april)
 
 
 
 ### 2017
+
+#### April
+
+##### April 19
+  - Learned Navie bayes and ensemble Learning
+
+  I started to learn ML, but was tired of understand all formula and how to get these formula. It is necessary to learn in detail after finishing the supervised learning project.
 
 #### March
 
