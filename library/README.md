@@ -38,6 +38,7 @@ This is the library where I put all of my learning materials and notes.
 ### Pandas
 
 ## Machine Learning
+  - [Calculus - khanacademy](https://www.khanacademy.org/math/calculus-home)
 
 ### Concept Map
 ![Learning Map](extras/mlmap.png)
