@@ -15,6 +15,10 @@
 
 #### April
 
+##### April 20
+  - Finished ensemble Learning
+  - Started Project2 and planned to finish it before next Monday
+
 ##### April 19
   - Learned Navie bayes and ensemble Learning
 

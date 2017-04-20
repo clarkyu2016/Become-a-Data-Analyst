@@ -3,7 +3,7 @@
 # To Do list
 
 ### Writing plan
-  - [ ] Translate [skills list](http://www.jianshu.com/p/cdc2bb769841) into Chinese and add some comments
+  - [x] Translate [skills list](http://www.jianshu.com/p/cdc2bb769841) into Chinese and add some comments
 
 ### Online Course
   - [ ] Udacity machine-learning Nanodegree
@@ -15,6 +15,7 @@
 ### Reading list
   - [ ] Python for Data Analysis(Progress: reading now!)
   - [ ] R for Beginners
+  - [ ] Think python: How to think like a computer scientist second edition
 
 ### learning language
   - [ ] Python
@@ -29,3 +30,6 @@
 
 ### Visualization
   - [ ] Use d3.js or dimple.js to draw a graph show my body with each sports hurt and make it interactive.
+
+### Machine learning
+  - [ ] Use machine learning algorithm to find water army and fake rating on Douban Movie.

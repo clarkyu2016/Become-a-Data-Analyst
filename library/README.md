@@ -24,6 +24,7 @@ This is the library where I put all of my learning materials and notes.
 ## Statistic
  - [Basic concepts(pdf version)](https://github.com/clarkyu2016/Become-a-Data-Analyst/tree/master/library/statistic)
  - [Binomial distribution](https://en.wikipedia.org/wiki/Binomial_distribution)
+ - [(Book) Statistics : Concepts and Controversies](https://book.douban.com/subject/1138353/)
 
 ## Python
  - ["yield"](http://www.ibm.com/developerworks/cn/opensource/os-cn-python-yield/)
