@@ -15,6 +15,7 @@ This is the library where I put all of my learning materials and notes.
   - [Feature Selection](#feature-selection)
   - [Algorithm](#algorithm)
   - [Evaluation](#evaluation)
+  - [Courses Recommendation](#course-recommend)
 - [Data Visualization](#data-visualization)
 - [Others](#others)
 
@@ -38,7 +39,8 @@ This is the library where I put all of my learning materials and notes.
 ### Pandas
 
 ## Machine Learning
-  - [Calculus - khanacademy](https://www.khanacademy.org/math/calculus-home)
+
+  -
 
 ### Concept Map
 ![Learning Map](extras/mlmap.png)
@@ -49,11 +51,15 @@ This is the library where I put all of my learning materials and notes.
 
 ### Algorithm
    - [Top 10 Machine Learning Algorithms](https://www.dezyre.com/article/top-10-machine-learning-algorithms/202)
-
-   - [机器学习算法一览](http://it.sohu.com/20160112/n434311372.shtml)
+   - [Alogrithms](http://it.sohu.com/20160112/n434311372.shtml)
+   - [Machine Learning Cheet sheet:how to select algorithm](extras/mlsheet.png)
+   - [How to choose algorithms for Microsoft Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning-algorithm-choice)
 
 ### Evaluation
-   - [准确率(Accuracy), 精确率(Precision), 召回率(Recall)和F1-Measure](https://argcv.com/articles/1036.c)
+   - [Accuracy, Precision, Recall and F1-Measure](https://argcv.com/articles/1036.c)
+
+### Courses Recommendation
+  - [Calculus - khanacademy](https://www.khanacademy.org/math/calculus-home)
 
 ## Data Visualization
  - [Graphical perception – learn the fundamentals first](http://flowingdata.com/2010/03/20/graphical-perception-learn-the-fundamentals-first/)
