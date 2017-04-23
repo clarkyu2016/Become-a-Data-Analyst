@@ -15,11 +15,14 @@
 
 #### April
 
-##### April 20
+##### April 22
+  - Read python for data analysis
+
+##### April 22
   - Finished project2
   - Planned to read python for data analysis this weekend !
 
-##### April 20
+##### April 21
   - Finished ensemble Learning
   - Started Project2 and planned to finish it before next Monday
 
