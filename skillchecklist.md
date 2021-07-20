@@ -38,19 +38,19 @@
 ## Statistic
 - Descriptive and Inferential statistics
   - [x] Mean, median, mode
-  - [ ] Data distributions
-    - [ ] Standard normal
+  - [x] Data distributions
+    - [x] Standard normal
     - [ ] Exponential/Poisson
     - [ ] Binomial
     - [ ] Chi-square
-  - [ ] Standard deviation and variance
-  - [ ] Hypothesis testing
-    - [ ] P-values
+  - [x] Standard deviation and variance
+  - [x] Hypothesis testing
+    - [x] P-values
   - [ ] Test for significance
     - [ ] Z-test, t-test, Mann-Whitney U
     - [ ] Chi-squared and ANOVA testing
 - Experimental design
-  - [ ] A/B Testing
+  - [x] A/B Testing
   - [ ] Controlling variables and choosing good control and testing groups
   - [ ] Sample Size and Power law
   - [ ] Hypothesis Testing, test hypothesis
@@ -68,15 +68,15 @@
 
 ## Machine Learning
 - Supervised Learning
-  - [ ] Decision trees
+  - [x] Decision trees
   - [ ] Naive Bayes classification
   - [ ] Ordinary Least Squares regression
-  - [ ] Logistic regression
+  - [x] Logistic regression
   - [ ] Neural networks
-  - [ ] Support vector machines
+  - [x] Support vector machines
   - [ ] Ensemble methods
 - Unsupervised Learning
-  - [ ] Clustering Algorithms
+  - [x] Clustering Algorithms
   - [ ] Principal Component Analysis (PCA)
   - [ ] Singular Value Decomposition (SVD)
   - [ ] Independent Component Analysis (ICA)
@@ -89,7 +89,7 @@
 - **Python**
   - [ ] Learn about Python String library for string manipulations
   - [ ] Parsing common file formats such as csv and xml files
-  - [ ] Regular Expressions
+  - [x] Regular Expressions
   - [x] Mathematical transformations
     - [x] Convert non-normal distribution to normal with log-10 transformation
 - Database systems (SQL-based and NO SQL based) - Databases act as a central hub to store information
