@@ -24,7 +24,7 @@
 - **Optional**
     - [ ] ipython
     - [x] ipython notebook
-    - [ ] anaconda
+    - [x] anaconda
     - [ ] ggplot
     - [ ] seaborn
   - [ ] Spreadsheet tools (like Excel)
