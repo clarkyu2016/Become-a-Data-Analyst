@@ -11,7 +11,7 @@
 
 ## Programming
 - **Python programming language**
-  - [ ] numpy
+  - [x] numpy
   - [ ] pandas
   - [ ] matplotlib
   - [ ] scipy
